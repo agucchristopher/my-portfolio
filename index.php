@@ -12,6 +12,7 @@
     document.write("Hey");
   });
   </script>
+<script src="https://js.hcaptcha.com/1/api.js" async defer></script>
   <script src="js/index.js"></script>
   <title>Agu C Christopher</title>
 </head>
@@ -41,6 +42,7 @@
  <a href="https://instagram.com/don.agu.kay"><i class="fa-brands fa-instagram"></i></a></p>
 </div>
 <br />
+<div class="h-captcha" data-sitekey="0xF5bCAdF064106871f719528deF66E8511402211E"></div>
 <div id="tab">
 <img src="me.jpg">
 </div>
