@@ -1,0 +1,83 @@
+a {
+  top:0px;
+  left: 0px;
+  right: 0px;
+  display:block;
+width:calc(410px / 6);
+height:20px;
+text-align:;
+color:#121212;
+text-decoration:none;
+line-height:20px;
+font-family: 'Poppins',sans-serif;
+ 
+}
+li {
+list-style: none;
+height: 20px;
+}
+ul {
+  display: flex;
+}
+.active {
+  border-bottom: 2px solid black;
+}
+#navbar {
+  border: 2px; solid #ccc;
+position: fixed;
+width: 100%;
+height:50px;
+background:#fff;
+box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3), 0 7px 21px 0 rgba(0, 0, 0, 0.20);
+  display: flex;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  
+  
+}
+svg {
+  fill: none;
+  stroke: black;
+  width: 25;
+}
+#txt1 {
+  font-size: 20px;
+  margin-left: 20px;
+  text-align: left;
+  font-family: Monospace;
+}
+.left {
+  padding: 80px;
+  text-align: left;
+}
+#header > h1 {
+  font-family: Monospace;
+}
+#tab > p,h1 {
+  font-size: 20px;
+  margin-left: 20px;
+  text-align: left;
+  font-family: Monospace;
+}
+#tab {
+width: 100%;
+height:contain;
+background:#fff;
+box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3), 0 7px 21px 0 rgba(0, 0, 0, 0.20);
+  display: flex;
+  top: px;
+  left: 0px;
+  right: 0px;
+  border-radius: 5px;
+}
+body {
+border: 0px;
+}
+#tab > img {
+  width: 100%;
+}
+#header {
+  top: 0px;
+  position: absolute;
+}
