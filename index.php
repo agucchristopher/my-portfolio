@@ -39,6 +39,14 @@
  <a href="#"><i class="fa fa-2x fa-linkedin"></i></a></p>
 </div>
 <br />
+<!-- This example uses <i> element with: 
+1. the `fa-solid` style class for solid style
+2. the `user` icon with the `fa-` prefix -->
+<i class="fa-solid fa-user"></i>
+
+<!-- Or you can use a <span> element, with classes applied in the same way -->
+<span class="fa-solid fa-user"></span>
+
 <div id="tab">
 <img src="images/me.jpg">
 </div>
