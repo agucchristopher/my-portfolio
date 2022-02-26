@@ -4,10 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--load all Font Awesome styles -->
-  <link href="/icon/icon/css/all.css" rel="stylesheet">
+      <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
   <link rel="stylesheet" href="css/index.css">
   <script src="jquery.js"></script>
- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
   <script src="js/index.js"></script>
   <title>Agu C Christopher</title>
 </head>
