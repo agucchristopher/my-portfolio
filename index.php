@@ -7,6 +7,7 @@
   <link href="/icon/icon/css/all.css" rel="stylesheet">
   <link rel="stylesheet" href="css/index.css">
   <script src="jquery.js"></script>
+<script src="https://use.fontawesome.com/4c158b7699.js"></script>
   <script src="js/index.js"></script>
   <title>Agu C Christopher</title>
 </head>
