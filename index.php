@@ -36,7 +36,7 @@
  <a href="https://github.com/dev-kay1"> <i class="fa-brands fa-2x fa-github" aria-hidden="true"></i> </a> <br /> <a href="https://facebook.com/lrc.agu.don"><i class="fa-brands fa-2x fa-facebook"></i></a> <br />
  <a href="https://instagram.com/don.agu.kay"><i class="fa-brands fa-2x fa-instagram"></i></a>
  <br />
- <a href="#"><i class="fa-brands fa-2x fa-linkedin"></i></a></p>
+ <a href="#"><i class="fa fa-2x fa-linkedin"></i></a></p>
 </div>
 <br />
 <div id="tab">
