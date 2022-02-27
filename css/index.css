@@ -74,6 +74,28 @@ box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3), 0 7px 21px 0 rgba(0, 0, 0, 0.20);
 body {
 border: 0px;
 }
+@media screen and (max-width: 600px) {
+  #tab > img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+}
+
+/* The "responsive" class is added to the navbar with JavaScript when the user clicks on the icon. This class makes the navbar look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  #tab > img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+}
 #tab > img {
     max-width: 400px;
     width: 100%;
