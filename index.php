@@ -39,7 +39,7 @@
 </div>
 <br />
 <div id="tab">
-<p> <q> I am not in competition with anyone but myself. My goal is to improve myself continously - Bill Gates </q> </p>
+<p> <i class="fa fa-quote-left" aria-hidden="true"></i> I am not in competition with anyone but myself. My goal is to improve myself continously <br> - Bill Gates <i class="fa fa-quote-right" aria-hidden="true"></i></p>
 </div>
 <br />
 <h1 id="txt1">
