@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--load all Font Awesome styles -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css"/>
+ <script src="https://kit.fontawesome.com/2faa7be403.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="css/index.css">
   <script src="jquery.js"></script>
   <script src="js/index.js"></script>
