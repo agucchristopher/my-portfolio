@@ -32,10 +32,10 @@
   am Agu C. Christopher <br> I am a fullstack website developer. <br>
   I am in for jobs <br>
   You can contact me through: <br>
- <a href="https://github.com/dev-kay1"> <i class="fa-brands fa-2x fa-github" aria-hidden="true"></i> </a> <br /> <a href="https://facebook.com/lrc.agu.don"><i class="fa-brands fa-2x fa-facebook"></i></a> <br />
+ <a href="https://github.com/dev-kay1"> <i class="fa fa-2x fa-github" aria-hidden="true"></i> </a> <br /> <a href="https://facebook.com/lrc.agu.don"><i class="fa-brands fa-2x fa-facebook"></i></a> <br />
  <a href="https://instagram.com/don.agu.kay"><i class="fa-brands fa-2x fa-instagram"></i></a>
  <br />
- <a href="#"><i class="fal fa-2x fa-linkedin"></i></a></p>
+ <a href="#"><i class="fa fa-2x fa-linkedin"></i></a></p>
 </div>
 <br />
 <div id="tab">
@@ -103,7 +103,7 @@
 </div>
 <div id="footer">
   <h1 id="txt1">
-  &copy; Platinum Studios 2022
+  &copy; Agu C. Christopher 2022
   </h1>
 </div>
 </body>
