@@ -15,7 +15,7 @@
     <li>
 <a href="index.php" class="icon" onclick="a()" title="Home" id="a"><i class="fa fa-lg fa-home"></i></a> </li>
 <li>
-<a href="project.php"  class="icon"> <i class="fa fa-lg fa-hammer"></i></a></li>
+<a href="project.php"  class="icon"> <i class="fa fa-lg fa-tools"></i></a></li>
 <li>
 <a title="Profile" class="icon" href="profile.php"><i class="fas fa-lg fa-circle-user"></i></a></li>
 <li>
