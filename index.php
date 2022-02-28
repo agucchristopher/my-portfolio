@@ -11,22 +11,7 @@
   <title>Agu C Christopher</title>
 </head>
 <body>
-  <div id="navbar"> 
-  <ul>
-    <li>
-<a href="#" onclick="a()" title="Home" id="a"><i class="fa fa-lg fa-home"></i></a> </li>
-<li>
-<a href="projects.html"  class="rnd"> <i class="fa fa-lg fa-hammer"></i></a></li>
-<li>
-<a title="Profile" href="profile.html"><i class="fas fa-lg fa-circle-user"></i></a></li>
-<li>
-  <a href="#"> <i class="fa fa-lg fa-phone"></i> </a>
-</li>
-	</ul>
-	</div>
-	<br>
-		<br />
-   <h1 id="txt1"> Agu C. Christopher </h1>
+  <?php include("header.php"); ?>
 <div  id="tab">
   <p> Hi, <br>
   am Agu C. Christopher <br> I am a fullstack website developer. <br>
