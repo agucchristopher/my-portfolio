@@ -8,19 +8,18 @@
   <link rel="stylesheet" href="css/index.css">
   <script src="jquery.js"></script>
   <script src="js/index.js"></script>
-  <title>Agu C Christopher</title>
 </head>
 <body>
   <div id="navbar"> 
   <ul>
     <li>
-<a href="#" onclick="a()" title="Home" id="a"><i class="fa fa-lg fa-home"></i></a> </li>
+<a href="index.php" class="icon" onclick="a()" title="Home" id="a"><i class="fa fa-lg fa-home"></i></a> </li>
 <li>
-<a href="projects.html"  class="rnd"> <i class="fa fa-lg fa-hammer"></i></a></li>
+<a href="project.php"  class="icon"> <i class="fa fa-lg fa-hammer"></i></a></li>
 <li>
-<a title="Profile" href="profile.html"><i class="fas fa-lg fa-circle-user"></i></a></li>
+<a title="Profile" class="icon" href="profile.php"><i class="fas fa-lg fa-circle-user"></i></a></li>
 <li>
-  <a href="#"> <i class="fa fa-lg fa-phone"></i> </a>
+  <a href="contact.php" class="icon"> <i class="fa fa-lg fa-phone"></i> </a>
 </li>
 	</ul>
 	</div>
