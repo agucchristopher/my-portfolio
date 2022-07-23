@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+NATIVE ASYNC
+<script async="async" data-cfasync="false" src="//pl17499517.highperformancegate.com/12c80af1732b9dd12209de647eeec4f1/invoke.js"></script>
+<div id="container-12c80af1732b9dd12209de647eeec4f1"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7789232118443297"
      crossorigin="anonymous"></script>
   <meta charset="UTF-8">
